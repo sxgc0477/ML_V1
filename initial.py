@@ -1,2 +1,2 @@
 import sys
-print("running on"+argv)
+print("running on"+sys.argv[1:])
